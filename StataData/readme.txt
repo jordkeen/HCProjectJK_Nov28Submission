@@ -1,0 +1,1 @@
+This folder contains all Stata datasets made to produce results in paper

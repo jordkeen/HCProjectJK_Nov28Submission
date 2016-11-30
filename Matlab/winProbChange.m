@@ -1,5 +1,5 @@
 %set home directory
-cd('****\HCProjectJK_Nov28Submission');
+cd('****\HCProjectJK_Nov28Submission-Master');
 
 %direct to Matlab directory
 cd Matlab

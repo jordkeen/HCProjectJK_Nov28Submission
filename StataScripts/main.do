@@ -3,7 +3,7 @@
 //Preliminaries
 
 //set home directory
-global home "***\HCProjectJK_Nov28Submission"
+global home "***\HCProjectJK_Nov28Submission-Master"
 
 //establish other directories
 global raw "$home\rawData"
